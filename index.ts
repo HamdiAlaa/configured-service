@@ -1,4 +1,3 @@
-import * as pulumi from "@pulumi/pulumi";
 import * as k8s from "@pulumi/kubernetes";
 import * as _config from "./config";
 import {provider} from './cluster'
